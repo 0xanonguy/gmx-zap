@@ -19,7 +19,6 @@ import {
 	saveTxDetails,
 } from "../../helpers";
 import { setTxDetails } from "../../redux";
-// let bridgeStatus: queryResponseObj;
 
 type BridgeTokensProps = {
 	route: any;
